@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #7469B6;
+            background-color: #FEFBF6;
             margin: 0;
             padding: 0;
         }
@@ -15,7 +15,7 @@
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #ffffff;
+            background-color: #F2EFE5;
             border-radius: 5px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             transform: rotateX(10deg) rotateY(10deg);

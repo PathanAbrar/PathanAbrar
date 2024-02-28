@@ -54,11 +54,11 @@
             <li>CSS3</li>
             <li>JavaScript</li>
             <li>Responsive Design</li>
-            <!-- Add more skills here -->
+            <!-- https://www.bing.com/images/create/a-portfolio-image-for-a-web-developer/1-65df5ef6ac5946b8a876f56e210151be?id=0iGn9HGkgE18HOKLBy8HLw%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.AgOs_n5d1FHcNH3r0sIO&idpbck=1&form=BICREC&idpview=singleimage&idpo=col&thid=OIG4.AgOs_n5d1FHcNH3r0sIOAdd more skills here -->
         </ul>
         <h2 class="contact">Contact</h2>
-        <p>Email: pathan.abrar@example.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/pathanabrar" target="_blank">linkedin.com/in/pathanabrar</a></p>
+        <p>Email: abrarkhan6744@gmail.com</p>
+        <p>LinkedIn: <a href="http://wa.me/918975169196" target="_blank">whatsapp/in/pathanabrar</a></p>
         <!-- Add more contact information here -->
     </div>
 </body>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,6 +18,16 @@
             background-color: #ffffff;
             border-radius: 5px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            transform: rotateX(10deg) rotateY(10deg);
+            animation: rotate 10s infinite alternate;
+        }
+        @keyframes rotate {
+            0% {
+                transform: rotateX(10deg) rotateY(10deg);
+            }
+            100% {
+                transform: rotateX(-10deg) rotateY(-10deg);
+            }
         }
         h1 {
             color: #333;

@@ -25,14 +25,20 @@
         p {
             color: #666;
         }
+        .skills {
+            color: #ff6b6b;
+        }
+        .contact {
+            color: #4ecdc4;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Pathan Abrar Zafar Khan</h1>
-        <p>Web Developer</p>
-        <p>I specialize in front-end development using HTML, CSS, and JavaScript. I love creating responsive and user-friendly websites.</p>
-        <h2>Skills</h2>
+        <p class="skills">Web Developer | Front-End Enthusiast</p>
+        <p>I specialize in creating beautiful and responsive websites. My passion lies in crafting delightful user experiences.</p>
+        <h2 class="skills">Skills</h2>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
@@ -40,7 +46,7 @@
             <li>Responsive Design</li>
             <!-- Add more skills here -->
         </ul>
-        <h2>Contact</h2>
+        <h2 class="contact">Contact</h2>
         <p>Email: pathan.abrar@example.com</p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/pathanabrar" target="_blank">linkedin.com/in/pathanabrar</a></p>
         <!-- Add more contact information here -->
